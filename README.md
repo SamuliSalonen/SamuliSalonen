@@ -39,8 +39,8 @@ You can catch me streaming this project on weekdays
 ![Postman](https://img.shields.io/badge/Postman-336157?logo=postman&logoColor=FF6C37)
 
 
-![AWS](https://img.shields.io/badge/AZURE-232F3E?logo=azure-devops&logoColor=FF9900)
-
+![AZURE](https://img.shields.io/badge/AZURE-232F3E?logo=azure-devops&logoColor=FF9900)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)](#)
 
 ## 📫 Contact
 **Email:** salonen.samuli1@gmail.com
